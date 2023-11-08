@@ -160,6 +160,25 @@ This code is licensed under the [MIT](/LICENSE) License.
 Before making any contributions, refer to [here](/CONTRIBUTING.md).
 
 ### Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/TranGiaHung-B2014981>
+            <img src=https://avatars.githubusercontent.com/u/141979642?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=TranGiaHung-B2014981/>
+            <br />
+            <sub style="font-size:14px"><b>TranGiaHung-B2014981</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/tghung3k3>
+            <img src=https://avatars.githubusercontent.com/u/121333075?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=tghung3k3/>
+            <br />
+            <sub style="font-size:14px"><b>tghung3k3</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 

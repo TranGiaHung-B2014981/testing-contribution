@@ -160,6 +160,8 @@ This code is licensed under the [MIT](/LICENSE) License.
 Before making any contributions, refer to [here](/CONTRIBUTING.md).
 
 ### Contributors
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 ### Show your support
 Star (⭐️) this repository if it helped you! hahahahaaha

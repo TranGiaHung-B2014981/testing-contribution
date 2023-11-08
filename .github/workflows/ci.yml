@@ -19,6 +19,11 @@ jobs:
         with:
           node-version: 20
       - uses: nrwl/nx-set-shas@v3
+
+      - uses: akhilmhdh/contributors-readme-action@v2.3.6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
       - run: npm ci
 
       - run: npm run lint:js
